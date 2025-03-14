@@ -1,7 +1,7 @@
 return {
     __vscode_foreground = "#CCCCCC",
     __vscode_background = "#000000", --"#1E1E1E",
-    __vscode_local_background = "#000000",--"#252526",
+    __vscode_local_background = "#111111",--"#252526",
     __vscode_visual_color = "#264F78",
     __vscode_replace_search_color = "#613214",
     __vscode_window_spearator_color = "#454545",
